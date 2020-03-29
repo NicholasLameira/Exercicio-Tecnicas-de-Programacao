@@ -10,8 +10,8 @@ não está a sair, pode dar uma vista de olhos aqui nos meus códigos!
     - Se não tem conhecimento básico em linguagem C, não recomendo ver este conteúdo mas você decide!
 
 ### :iphone: Contactos(Sinta-se a vontade para comunicar comigo):smile: :
-[Facebook](https://www.facebook.com/EufranioDiogo10)
-[Instagram](https://www.instagram.com/eufraniodiogo5/)
+    - [Facebook](https://www.facebook.com/EufranioDiogo10)
+    - [Instagram](https://www.instagram.com/eufraniodiogo5/)
 
 ```
 live = true
