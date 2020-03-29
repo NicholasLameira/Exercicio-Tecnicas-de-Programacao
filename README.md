@@ -13,4 +13,10 @@ não está a sair, pode dar uma vista de olhos aqui nos meus códigos!
 [Facebook](https://www.facebook.com/EufranioDiogo10)
 [Instagram](https://www.instagram.com/eufraniodiogo5/)
 
+```
+live = true
 
+while live == true:
+    print('Please, live your life in best way that is possible')
+
+```
