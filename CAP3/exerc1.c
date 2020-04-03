@@ -1,6 +1,6 @@
 #include <stdio.h>
 //review
-float serieHarmonica(int n){
+float serieHarmonica(float n){
     if(n == 1){
         return 1;
     }
