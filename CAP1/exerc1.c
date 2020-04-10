@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int verificarBcontidoaA(int a, int b){
-    if(b >= a){
+    if(b > a){
         return -1;
     }
 
