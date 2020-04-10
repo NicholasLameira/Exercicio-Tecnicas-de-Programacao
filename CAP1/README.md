@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Funções Iteraticvas
+# Lista de Exercícios 1 - Funções Iterativas
  **1.** Desenvolva uma função para receber dois inteiros positivos a e b e verificar se b corresponde aos últimos dígitos de a.
  Por exemplo\:
  
