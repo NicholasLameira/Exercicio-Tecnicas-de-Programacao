@@ -22,7 +22,7 @@ int main(){
 
     printf("Digite um número: ");
     scanf("%d", &numero);
-    printf("O número %d é primo? %d", numero, isPrimo(numero, numero - 1));
+    printf("O número %d é primo? %d\n", numero, isPrimo(numero, numero - 1));
 
     return 0;
 }

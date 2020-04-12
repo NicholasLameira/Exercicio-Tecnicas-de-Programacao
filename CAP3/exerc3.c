@@ -9,9 +9,9 @@ int multiplicacao_iterativa(int num1, int num2){
 
 int multiplicacao_recursiva(int num1, int num2){
     if(num2 == 1){
-        return num1 * num2;
+        return num1;
     }
-    return multiplicacao_recursiva(num1, num2 - 1) + num1;
+    return num1 + multiplicacao_recursiva(num1, num2 - 1);
 }
 
 int main(){

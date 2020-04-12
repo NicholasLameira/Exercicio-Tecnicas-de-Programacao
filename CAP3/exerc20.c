@@ -1,20 +1,19 @@
 #include <stdio.h>
 
-float serieHarmonica(float n){
-    if(n == 0){
-        return 0;
+void hanoi(int n, char torreA, char torreAux, char torreC){
+    if(n >= 1){
+        hanoi(n - 1, torreA, torreC, torreAux);
+        printf("O disco %d foi movido da torre %c para a torre %c\n", n, torreA, torreC);
+        hanoi(n - 1, torreAux, torreA, torreC);
     }
-    return serieHarmonica(n - 1) + (1 / n);
 }
-
 int main(){
-    int n = 0;
+    int numDiscos = 0;
 
-    printf("Digite um determinado valor para n: ");
-    scanf("%d", &n);
-
-    float harmonica = serieHarmonica(n);
-    printf("Serie Harmonica Result: %.2f\n", harmonica);
+    printf("Digite o número de discos que terá a partida: ");
+    scanf("%d", &numDiscos);
+    
+    hanoi(numDiscos, 'A', 'B', 'C');
 
     return 0;
 }
