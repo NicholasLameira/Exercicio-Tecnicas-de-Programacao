@@ -16,10 +16,7 @@ parâmetro um número inteiro positivo e mostre a representação desse número 
 **7.** - Desenvolva uma função recursiva que recebe como parâmetro um número inteiro positivo retorna o valor dos n primeiros termos a seguinte soma: 2⁰ + 2¹ + 2² + 2³ + 2⁴ + ... + 2^n(2 elevado a n).
 
 **8.** - Desenvolva uma função recursiva que recebe como parâmetro dois números inteiros positivos e calcula o valor da fórmula recorrente de Ackermann: 
-![ssdsds](x-special/nautilus-clipboard
-copy
-file:///home/ed/Documents/MD%20Exercs/Fun%C3%A7%C3%A3o%20Ackerman.png
-)
+
 **9.** - Desenvolva uma função recursiva para calcular o MDC de dois números inteiros passados como parâmetros, através da seguinte relação de recorrência.
 
 **10.** - Desenvolva uma função recursiva que recebe como parâmetro um número inteiro positivo e devolve o número de dígitos desse número.
@@ -88,4 +85,5 @@ Considere que os pinos são numerados, da esquerda para direita, como A, B, C e 
  - [x] Exerc 20
 
 **Resolvidos:** 80%
+
 **Não Resolvidos:** 20%
