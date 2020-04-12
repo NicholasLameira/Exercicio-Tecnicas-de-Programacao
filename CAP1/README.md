@@ -45,7 +45,7 @@ calcular o mdc (x, y) para x > y pelo algoritmo de Euclides.
 
 ---
 
-# Lista de Checagem de Exercícios
+# Exercícios Resolvidos
  - [x] Exerc 1
  - [x] Exerc 2
  - [x] Exerc 3
