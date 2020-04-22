@@ -85,4 +85,5 @@ Considere que os pinos são numerados, da esquerda para direita, como A, B, C e 
  - [x] Exerc 20
 
 **Resolvidos:** 80%
+
 **Não Resolvidos:** 20%
